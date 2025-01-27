@@ -1,3 +1,6 @@
+#pip install requests
+#pip install pyTelegramBotAPI
+
 import telebot
 import requests
 
